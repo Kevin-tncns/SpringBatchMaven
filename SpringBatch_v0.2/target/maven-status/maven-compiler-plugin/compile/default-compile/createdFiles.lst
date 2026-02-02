@@ -1,0 +1,14 @@
+com\example\spbatch\config\OracleSourceDBConfig.class
+com\example\spbatch\batch\oratostg\OratostgJobConfig$1.class
+com\example\spbatch\mapper\mariadb\TestMariaDB.class
+com\example\spbatch\config\MariaStgDBConfig.class
+com\example\spbatch\mapper\metamysql\TestMetaDB.class
+com\example\spbatch\mapper\oracle\source\TestSourceOracleDB.class
+com\example\spbatch\SpringBatchApplication.class
+com\example\spbatch\config\MetaDBConfig.class
+com\example\spbatch\mapper\oracle\source\OracleEmployeeMapper.class
+com\example\spbatch\mapper\mariadb\StgEmployeeMapper.class
+com\example\spbatch\config\OracleTargetDBConfig.class
+com\example\spbatch\batch\oratostg\OratostgJobConfig.class
+com\example\spbatch\mapper\oracle\target\TestTargetOracleDB.class
+com\example\spbatch\service\TestDBService.class
